@@ -10,14 +10,14 @@
 
 ![C++](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
+![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
+![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)
+![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown)
 
 ### Hosting/SaaS
 
