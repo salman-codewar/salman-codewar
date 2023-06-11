@@ -37,6 +37,7 @@
   ![MUI](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=material-ui)
   ![Ant-Design](https://img.shields.io/badge/-AntDesign-black?style=for-the-badge&logo=ant-design)
   ![Chakra](https://img.shields.io/badge/chakra-black?style=for-the-badge&logo=chakraui)
+  ![Apollo](https://img.shields.io/badge/apollo-black?style=for-the-badge&logo=apollo)
   ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-black?style=for-the-badge&logo=apollo-graphql)
   ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-black?style=for-the-badge)
   ![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)
@@ -59,6 +60,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
   ![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)
   ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
+  ![prometheus](https://img.shields.io/badge/prometheus-black?style=for-the-badge&logo=prometheus)
   
 ### Other:
 
