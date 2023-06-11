@@ -21,14 +21,6 @@
 ![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)
 ![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown)
 
-### Hosting/SaaS:
-
- ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
- ![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
- ![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure-devops)
- ![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
- ![Heroku](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)
-
 ### Frameworks, Platforms & Libraries:
 
   ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -49,10 +41,6 @@
   ![UNITY](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
   ![NPM](https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm)
   ![Yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)
-
-### Servers:
-
-  ![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)
   
 ### Databases:
 
@@ -74,6 +62,20 @@
   ![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=Trello)
   ![ESLint](https://img.shields.io/badge/ESLint-black?style=for-the-badge&logo=eslint)
   ![Sketch](https://img.shields.io/badge/Sketch-black?style=for-the-badge&logo=sketch)
+
+### Hosting/SaaS:
+
+ ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
+ ![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
+ ![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure-devops)
+ ![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
+ ![Heroku](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)
+
+### Servers:
+
+  ![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)
+  
+
 
 <details>
   <h3>📊 GitHub Stats:</h3><br/>
