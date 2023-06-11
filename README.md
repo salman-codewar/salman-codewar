@@ -39,6 +39,7 @@
   ![Chakra](https://img.shields.io/badge/chakra-black?style=for-the-badge&logo=chakraui)
   ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-black?style=for-the-badge&logo=apollo-graphql)
   ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-black?style=for-the-badge)
+  ![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)
   ![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![Chart.js](https://img.shields.io/badge/chart.js-black?style=for-the-badge&logo=chart.js)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css)
