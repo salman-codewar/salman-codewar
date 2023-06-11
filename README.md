@@ -10,7 +10,7 @@
 
 ### Languages:
 
-![C++](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
@@ -62,7 +62,7 @@
   
 ### Other:
 
-  ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
+  ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=blue)
   ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
   ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
   ![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=swagger)
