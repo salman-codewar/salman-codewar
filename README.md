@@ -1,12 +1,14 @@
 <div align="end">
-    <img src="https://visitcount.itsvg.in/api?id=salman-codewar&icon=4&color=0" />
+    <img src="https://visitcount.itsvg.in/api?id=salman-codewar&icon=4&color=12" />
 </div>
 
+ ## 🌐 Socials:
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/salman-naseem) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7507520) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24262B?logo=linkedin)](https://linkedin.com/in/https://linkedin.com/in/salman-naseem) 
+<br/>
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-24262B?logo=stack-overflow)](https://stackoverflow.com/users/7507520) 
 
-### Languages
+### Languages:
 
 ![C++](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
@@ -19,7 +21,7 @@
 ![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)
 ![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown)
 
-### Hosting/SaaS
+### Hosting/SaaS:
 
  ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
  ![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
@@ -27,7 +29,7 @@
  ![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
  ![Heroku](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)
 
-### Frameworks, Platforms & Libraries
+### Frameworks, Platforms & Libraries:
 
   ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
@@ -46,18 +48,18 @@
   ![NPM](https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm)
   ![Yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)
 
-### Servers
+### Servers:
 
   ![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)
   
-### Databases
+### Databases:
 
   ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-black?style=for-the-badge&logo=Amazon%20DynamoDB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
   ![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)
   ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
   
-### Other
+### Other:
 
   ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
   ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
