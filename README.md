@@ -21,54 +21,54 @@
 
 ### Hosting/SaaS
 
- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+ ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
+ ![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
+ ![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure-devops)
+ ![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
+ ![Heroku](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)
 
 ### Frameworks, Platforms & Libraries
 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-  ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-  ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-  ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-  ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
-  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+  ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
+  ![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
+  ![MUI](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=material-ui)
+  ![Ant-Design](https://img.shields.io/badge/-AntDesign-black?style=for-the-badge&logo=ant-design)
+  ![Chakra](https://img.shields.io/badge/chakra-black?style=for-the-badge&logo=chakraui)
+  ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-black?style=for-the-badge&logo=apollo-graphql)
+  ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-black?style=for-the-badge)
+  ![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Chart.js](https://img.shields.io/badge/chart.js-black?style=for-the-badge&logo=chart.js)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css)
+  ![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter)
+  ![Less](https://img.shields.io/badge/less-black?style=for-the-badge&logo=less)
+  ![UNITY](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+  ![NPM](https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm)
+  ![Yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)
 
 ### Servers
 
-  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)
   
 ### Databases
 
-  ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-black?style=for-the-badge&logo=Amazon%20DynamoDB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+  ![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)
+  ![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
   
 ### Other
 
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
   ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-  ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-  ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+  ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+  ![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=swagger)
+  ![Babel](https://img.shields.io/badge/Babel-black?style=for-the-badge&logo=babel)
+  ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)
+  ![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=Trello)
+  ![ESLint](https://img.shields.io/badge/ESLint-black?style=for-the-badge&logo=eslint)
+  ![Sketch](https://img.shields.io/badge/Sketch-black?style=for-the-badge&logo=sketch)
 
 <details>
   <h3>📊 GitHub Stats:</h3><br/>
